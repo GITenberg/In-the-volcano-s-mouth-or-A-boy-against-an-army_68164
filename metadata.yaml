@@ -1,0 +1,30 @@
+_repo: In-the-volcano-s-mouth-or-A-boy-against-an-army_68164
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sheridan, Frank
+    gutenberg_agent_id: '54634'
+    url: http://www.gutenberg.org/2009/agents/54634
+description: ''
+gutenberg_issued: '2022-05-24'
+identifiers:
+  gutenberg: '68164'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:686799
+pgterms:marc905: 20220218092700sheridan
+pgterms:marc906: '1890'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: United States :Street & Smith,1890.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Bound-to-win library, no. 134.
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Dime novels'
+- !lcc 'PZ'
+- GITenberg
+title: In the volcano's mouth; or, A boy against an army
+url: http://www.gutenberg.org/ebooks/68164
